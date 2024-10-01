@@ -13,7 +13,8 @@ Exploit the SQL Injection vulnerability, allowing you to register as a Pro user,
 Just run:`./exploit.sh`
 Make sure that the android device is connected and the adb is running.
 
-![SQLi](https://parad0x-0xff.github.io/MHL/FoodStore/MHL_foodStore_4.png)
+<img width="335" alt="MHL_foodStore_4" src="https://github.com/user-attachments/assets/0b49e2bd-00a5-4447-8caf-d4cac449f93f">
+
 
 ## BONUS INTENT EXPLOIT
 The following command will open the app and by sending a crafted deep link
@@ -25,7 +26,8 @@ adb shell am start \
 --ei USER_CREDIT "1337"
 ```
 
-![Intent Injection](https://parad0x-0xff.github.io/MHL/FoodStore/MHL_foodStore_5.png)
+<img width="762" alt="MHL_foodStore_5" src="https://github.com/user-attachments/assets/823411e3-2a23-45c8-93e4-4cc3c0265f6d">
+
 
 ## Conclusion
 
