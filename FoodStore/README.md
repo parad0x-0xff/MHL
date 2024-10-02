@@ -1,4 +1,4 @@
-# Writeup for Guess me challenge.
+# Writeup for Food Store challenge.
 
 >here's how to use the scripts only as proof of concept.
 
