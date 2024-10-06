@@ -12,9 +12,9 @@ Exploit a Broadcast Receiver Vulnerability: Your mission is to manipulate the br
 
 Run the `brute-iotconnect.sh` to automatically exploit the app.
 
-
+![image](https://github.com/user-attachments/assets/ae55a214-1d6a-4d2d-b47c-45aa2178d55e)
 
 
 ## Conclusion
 
-On my blog, I'll cover step by step to achieve the RCE and exploit the webview weakness.
+On my blog, I'll cover step by step about exploitation of the broadcaste receiver and the crafted intent exploit.
