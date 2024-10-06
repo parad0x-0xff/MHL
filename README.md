@@ -5,9 +5,9 @@ You can find the exploit code source here on Github and the full writeup of them
 
 ## Courses
 
-| Android basics| 
-|--------|
-|<img width="300" src="https://github.com/user-attachments/assets/6b34be03-51f8-4185-b0d9-3817a5f59957"/> |
+|  | Android Basics | |
+|--------|--------|-------|
+| |<img width="300" src="https://github.com/user-attachments/assets/6b34be03-51f8-4185-b0d9-3817a5f59957"/>|
 
 
 ## Hacking Labs
