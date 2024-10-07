@@ -12,8 +12,9 @@ You can find the exploit code source here on Github and the full writeup of them
 
 ## Hacking Labs
 
-| IoTConnect | Food Store | Guess Me|
-|--------|--------|-------|
-| <img width="300" src="https://github.com/user-attachments/assets/07aeecda-f326-455c-97b2-5f3d7ec97639"/> |<img width="300" src="https://github.com/user-attachments/assets/4fb10e6c-a90c-4667-8828-bbb04421f531"/> | <img width="300" src="https://github.com/user-attachments/assets/27193ada-e7fe-4d24-9d0a-2ee5ab465db8"/> |
+| IoTConnect | Food Store | Guess Me| Post Board|
+|--------|--------|-------|--------|
+| <img width="300" src="https://github.com/user-attachments/assets/07aeecda-f326-455c-97b2-5f3d7ec97639"/> |<img width="300" src="https://github.com/user-attachments/assets/405ba73d-0e29-4e26-986b-5b6da6eda7bb"/> | <img width="300" src="https://github.com/user-attachments/assets/27193ada-e7fe-4d24-9d0a-2ee5ab465db8"/> |<img width="300" src="https://github.com/user-attachments/assets/92d42069-a282-4d90-9996-5b33a1d5163c"/>|
+
 
 ---
